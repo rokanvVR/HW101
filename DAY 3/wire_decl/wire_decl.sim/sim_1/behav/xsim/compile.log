@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VIVALDO/Task1/DAY 3/wire_decl/wire_decl.srcs/sources_1/new/wire_decl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module wire_decl
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VIVALDO/Task1/DAY 3/wire_decl/wire_decl.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
