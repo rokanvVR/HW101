@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VIVALDO/Task1/DAY 1/day1 Logic_gates/day1 Logic_gates.srcs/sources_1/new/logic_gates.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module logic_gates
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VIVALDO/Task1/DAY 1/day1 Logic_gates/day1 Logic_gates.srcs/sim_1/new/gates_stimuli.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module gates_stimuli
-INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VIVALDO/Task1/DAY 1/day1 Logic_gates/day1 Logic_gates.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
